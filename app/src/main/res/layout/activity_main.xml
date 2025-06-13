@@ -7,7 +7,7 @@
 
     <EditText
         android:id="@+id/permissionInput"
-        android:hint="Enter permission labels (comma-separated)"
+        android:hint="Enter permission labels with comma"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 

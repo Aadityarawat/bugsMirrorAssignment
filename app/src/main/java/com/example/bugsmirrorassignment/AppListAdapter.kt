@@ -5,6 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
+import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.permissionchecker.AppInfo
@@ -17,7 +18,7 @@ class AppListAdapter(
     inner class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         val icon: ImageView = view.findViewById(R.id.appIcon)
         val name: TextView = view.findViewById(R.id.appName)
-        val layout: TextView = view.findViewById(R.id.layout)
+        val layout: LinearLayout = view.findViewById(R.id.layout)
 
     }
 
