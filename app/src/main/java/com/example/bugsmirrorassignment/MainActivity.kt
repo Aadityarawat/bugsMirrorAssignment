@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
 
         searchButton.setOnClickListener {
             val input = inputField.text.toString()
-            val labels = input.split(", ").map { it.trim() }.filter { it.isNotEmpty() }
+            val labels = input.split(",").map { it.trim() }.filter { it.isNotEmpty() }
 
             val apps = try {
                 permissionChecker.getAppsByPermissions(labels)
