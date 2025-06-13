@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.permissionchecker.test.Permissionchecker-mergeDebugAndroidTestResources-31:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADee\\.gradle\\caches\\8.11.1\\transforms\\87c3c743d3c8fb890acf1416180f9f27\\transformed\\core-1.6.1\\res\\values-v18\\values.xml",
+                    "from": {
+                        "startLines": "4,12",
+                        "startColumns": "0,0",
+                        "startOffsets": "146,562",
+                        "endLines": "11,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "561,975"
+                    },
+                    "to": {
+                        "startLines": "3,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,524",
+                        "endLines": "10,18",
+                        "endColumns": "8,8",
+                        "endOffsets": "519,937"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADee\\.gradle\\caches\\8.11.1\\transforms\\d7a86076be663f44565e62fd9eb8b42e\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

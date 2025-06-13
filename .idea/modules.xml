@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BugsMirror_assignment.iml" filepath="$PROJECT_DIR$/.idea/modules/BugsMirror_assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Permissionchecker/BugsMirror_assignment.Permissionchecker.iml" filepath="$PROJECT_DIR$/.idea/modules/Permissionchecker/BugsMirror_assignment.Permissionchecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Permissionchecker/BugsMirror_assignment.Permissionchecker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Permissionchecker/BugsMirror_assignment.Permissionchecker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Permissionchecker/BugsMirror_assignment.Permissionchecker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Permissionchecker/BugsMirror_assignment.Permissionchecker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Permissionchecker/BugsMirror_assignment.Permissionchecker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Permissionchecker/BugsMirror_assignment.Permissionchecker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BugsMirror_assignment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BugsMirror_assignment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BugsMirror_assignment.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BugsMirror_assignment.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BugsMirror_assignment.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BugsMirror_assignment.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BugsMirror_assignment.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BugsMirror_assignment.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
